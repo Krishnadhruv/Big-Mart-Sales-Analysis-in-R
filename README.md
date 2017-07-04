@@ -1,2 +1,2 @@
 # Big-Mart-Sales-Analysis-in-R
-Predicting the sales outcome and the important variables responsible in the prediction using Random Forest Algorithm
+Predicting the  the important variables responsible in the prediction of Outlet_Sales using Random Forest Algorithm (regression method)
